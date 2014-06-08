@@ -1,4 +1,4 @@
 FirstRepo
 =========
 
-first repo
+This is our first repo :-D
